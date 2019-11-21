@@ -21,7 +21,7 @@ Before you go for your Pre-Admission Assessment appointment, please remember to 
 Your surgery reporting time will be confirmed 1 day before the surgery date. You will receive a call from our hospital staff. 
 
 ## Preparing for your surgery
-**DO NOT**
+### DO NOT
 - Do not take any food or drinks from 12 midnight onwards. This includes water. 
 
 - Do not smoke 1 day before your surgery.
@@ -32,7 +32,7 @@ Your surgery reporting time will be confirmed 1 day before the surgery date. You
 
 - Do not take your diabetic medicine on the day of the surgery if you are diabetic. 
 
-**DO**
+### DO
 - [x] Inform the Pre-Surgery Hotline at 65761248 during the working hours if you are feeling unwell. E.g. Flu, Cough, Fever 7 days prior to the operation. **Working hours:** Monday to Friday (8am-6pm), Saturday (8am-12pm).
 
 - [x] Take your regular medication with a small sip of water (100ml) at 6am, if you have:   
