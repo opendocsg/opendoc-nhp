@@ -1,54 +1,44 @@
-# Pre-Surgery Instruction for Local Anesthesia
+# Regarding your upcoming surgery
+Thank you for choosing SGH for your upcoming surgery. In order to have a safe and pleasant patient journey, please read the following items carefully. 
 
-## Sine accedere dolores vires alter et vivosque
+## Overview of communications from the hospital
+In the days leading up to your operation, our staff will reach out to you through SMS or call. 
+* After we book your surgery date, you will receive 1 SMS with all relevant doctor's appointments that you must attend before your surgery.
 
-Lorem markdownum totum: Pudor quoque perque hunc tamen *Troiae* haec flexerat
-calidus? Longum cum Pergama magistris gerit utile pedes inire; quam. Ea umeris,
-praecipuum dextram aether tum putes Nestor. Accedere profugi facta plectrumque
-*dixit liquidi*, ille lumina sanguisque Procne: manusque draconum! **Commune
-eruiturque contigit**; foribus quondam, mihi hoc natus seque?
+* 1 week before your surgery date, you will receive 1 SMS to ask if you are coming for the surgery. Please reply our staff to confirm/RSVP.
 
-- Priami quod
-- Accepisse soporem iam petit exarsit
-- Tuis Peneosque postquam
-- Vestram patremque suae pestiferaque nulli prohibente perque
+* The day before your surgery, you will receive a call from the hospital to tell you your reporting location and time. 
 
-## Astu hac primus fuit dextra laedar erat
+**Working hours:** Monday to Friday (8am-6pm), Saturday (8am-12pm).
 
-Verum cortex poenam, inquit habet: et nisi seminaque nisi, [ore
-posse](https://google.com). Forma [Apollo
-media](https://google.com) sumpserat, tepere non voce summo patris. Cunasque
-*longaque*, et malis *pater cernimus*? Hac diebus revellere solo: inque ut gener
-intrare. Luctata *advertite concurretque* fertur.
+## Surgery reporting time
+Your surgery reporting time will be confirmed 1 working day before the surgery date at 4PM. You will receive a call from our hospital staff. If you do not receive a call from us, please contact the Pre-Surgery hotline 65761248 during our working hours. 
 
-1. Axes seram Dindymaque
-2. Venit nullis secuta
-3. Inter in laedere nec et
-4. Ubi peraravit
-5. Tonitrus fero per huius Phineu plano coactis
-6. Formosis neve
+## Preparing for your surgery
+### DO NOT
+- Do not smoke 1 day before your surgery.
 
-Nimium nepoti dabant quid umeris ipse, [sparsisque
-utque](https://google.com) matris futura concordant [virtute
-quoque](https://google.com) fuit faciem. Quod *viro* devolvere isque; pro
-media, fuit, quia ipsa est Orchomenosque erat: huius?
+- Do not bring valuables or excessive cash (not more than S$20) to the hospital as there is no safekeeping place to store your valuables or money during the surgery.  
 
-## Nata illa canentis hac ubi nec neci
+- Do not apply makeup, nail polish/gelish or wear jewellery. We will ask you to remove them if you are wearing them on the day of your surgery. 
 
-Catenas potius monitu neque auxiliaribus vultu toris tempus purpureis urget. Nec
-ausa fluminis aperti. Per poteras modo **victa** liquidis. Meritam vulnus, leto
-sit Actaeona claro solacia regno ad eadem lugebitis ita neve mixtoque! Sumit
-deus vates ardent puerosque at humus, fune huius verba, [et vos
-auras](https://google.com).
+### DO
+- [x] Inform the Pre-Surgery Hotline at 65761248 during the working hours if you are feeling unwell. E.g. Flu, Cough, Fever 7 days prior to the operation. **Working hours:** Monday to Friday (8am-6pm), Saturday (8am-12pm).
 
-- Romethiumque tamen excusantia liquit ex paratae premis
-- Mixtis est inque forsitan
-- Genuere duram cardine
-- E tremit clamore nuper arcu mea maternas
-- Ad carmina stellas Atalanta vellet te potens
+- [ ] Bring your deposit payment
 
-Petentes oris ingens signatur nisi inventus turbatis
-[sive](https://google.com) uno quamvis copula vertuntur terram, pectus,
-olivis, iactatis ordo. Mirantur non et caelebs infert, obitumque velis Proetidas
-Lucifer nec hanc, prohibentque gerit. Revertentes sati viscera dominum exstantem
-excipit concidis. Virgo quamquam ripas; reliquerat est, Palladis?
+- [ ] Bring your employee medical benefits e.g. Hospital Identification Card or company Letter of Guarantee if it is relevant
+
+- [x] Take your regular medication with a small sip of water (100ml) at 6am, if you have:   
+  - High Blood Pressure
+  - Heart Problems  
+  
+- If you are taking any anti-platelet medications such as Warfarin, Aspirin, Ticlid, Plavix etc, please follow your physician’s advice.  
+
+- [x] Bring your inhaler if you have Asthma.
+
+- [x] Dress comfortably and wear comfortable shoes.
+
+- [x] Bring along a container for your spectacles or contact lens, if you are wearing them.
+
+- [x] Report for your surgery with a parent/guardian to give consent for your surgery if you are below 21 years old.
