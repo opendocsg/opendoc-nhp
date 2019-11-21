@@ -23,22 +23,22 @@ Your surgery reporting time will be confirmed 1 working day before the surgery d
 - Do not apply makeup, nail polish/gelish or wear jewellery. We will ask you to remove them if you are wearing them on the day of your surgery. 
 
 ### DO
-- [x] Inform the Pre-Surgery Hotline at 65761248 during the working hours if you are feeling unwell. E.g. Flu, Cough, Fever 7 days prior to the operation. **Working hours:** Monday to Friday (8am-6pm), Saturday (8am-12pm).
+[x] Inform the Pre-Surgery Hotline at 65761248 during the working hours if you are feeling unwell. E.g. Flu, Cough, Fever 7 days prior to the operation. **Working hours:** Monday to Friday (8am-6pm), Saturday (8am-12pm).
 
-- [ ] Bring your deposit payment
+[ ] Bring your deposit payment
 
-- [ ] Bring your employee medical benefits e.g. Hospital Identification Card or company Letter of Guarantee if it is relevant
+[ ] Bring your employee medical benefits e.g. Hospital Identification Card or company Letter of Guarantee if it is relevant
 
-- [x] Take your regular medication with a small sip of water (100ml) at 6am, if you have:   
+[x] Take your regular medication with a small sip of water (100ml) at 6am, if you have:   
   - High Blood Pressure
   - Heart Problems  
   
 - If you are taking any anti-platelet medications such as Warfarin, Aspirin, Ticlid, Plavix etc, please follow your physician’s advice.  
 
-- [x] Bring your inhaler if you have Asthma.
+[x] Bring your inhaler if you have Asthma.
 
-- [x] Dress comfortably and wear comfortable shoes.
+[x] Dress comfortably and wear comfortable shoes.
 
-- [x] Bring along a container for your spectacles or contact lens, if you are wearing them.
+[x] Bring along a container for your spectacles or contact lens, if you are wearing them.
 
-- [x] Report for your surgery with a parent/guardian to give consent for your surgery if you are below 21 years old.
+[x] Report for your surgery with a parent/guardian to give consent for your surgery if you are below 21 years old.
