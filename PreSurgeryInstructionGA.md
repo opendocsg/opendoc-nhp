@@ -4,13 +4,17 @@ Thank you for choosing SGH for your upcoming surgery. In order to have a safe an
 ## Overview of communications from the hospital
 In the days leading up to your operation, our staff will reach out to you through SMS or call. 
 * After we book your surgery date, you will receive 1 SMS with all relevant doctor's appointments that you must attend before your surgery.
+
 * 1 week before your surgery date, you will receive 1 SMS to ask if you are coming for the surgery. Please reply our staff to confirm/RSVP.
+
 * The day before your surgery, you will receive a call from the hospital to tell you your reporting location and time. 
 
 ## Pre-admission assessment:
 Before you go for your Pre-Admission Assessment appointment, please remember to bring the following: 
 - [ ] SingPass ID and password;
+
 - [ ] Employee medical benefits e.g. Hospital Identification Card or company Letter of Guarantee
+
 - [ ] All medications that you are currently taking for discussion with our anaesthetist
 
 ## Surgery reporting time
@@ -19,9 +23,13 @@ Your surgery reporting time will be confirmed 1 day before the surgery date. You
 ## Preparing for your surgery
 **DO NOT**
 - Do not take any food or drinks from 12 midnight onwards. This includes water. 
+
 - Do not smoke 1 day before your surgery.
+
 - Do not bring valuables or excessive cash (not more than S$20) to the hospital as there is no safekeeping place to store your valuables or money during the surgery.  
+
 - Do not apply makeup, nail polish/gelish or wear jewellery. We will ask you to remove them if you are wearing them on the day of your surgery. 
+
 - Do not take your diabetic medicine on the day of the surgery if you are diabetic. 
 
 **DO**
