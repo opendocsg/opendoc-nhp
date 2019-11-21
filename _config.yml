@@ -14,10 +14,9 @@ offline: false
 preload_pages: true
 
 order: #----> Optional, order of pages in root
-  - README.md
-  - sample.md
-document_order: #----> Optional, order of documents
-  - Instruction
+  - PreSurgeryInstructionGA.md
+  - PreSurgeryInstructionLA.md
+  
 styling_options:
   primary_brand_color: '#bdc3e2'  #----> Optional, theme color
   logo_path: /assets/logo.png  #----> Optional, path to logo
