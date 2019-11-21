@@ -1,7 +1,7 @@
-title: OpenDoc Template #----> Required
+title: OpenDoc NHP #----> Required
 remote_theme: opendocsg/opendoc-theme@v2
 timezone: Asia/Singapore
-repository: opendocsg/opendoc-template #----> Required
+repository: opendocsg/opendoc-nhp #----> Required
 plugins:
   - jekyll-include-cache
 baseurl: ''
