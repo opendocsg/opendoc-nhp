@@ -10,7 +10,8 @@ In the days leading up to your operation, our staff will reach out to you throug
 * The day before your surgery, you will receive a call from the hospital to tell you your reporting location and time. 
 
 ## Pre-admission assessment:
-Before you go for your Pre-Admission Assessment appointment, please remember to bring the following: 
+Before you go for your Pre-Admission Assessment appointment, please remember to bring the following:  
+
 - [ ] SingPass ID and password
 
 - [ ] Employee medical benefits e.g. Hospital Identification Card or company Letter of Guarantee if relevant
