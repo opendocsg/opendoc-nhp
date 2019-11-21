@@ -17,9 +17,7 @@ order: #----> Optional, order of pages in root
   - README.md
   - sample.md
 document_order: #----> Optional, order of documents
-  - Document 1
-  - # --> leave blank to show root pages
-  - AA Document 2
+  - Instruction
 styling_options:
   primary_brand_color: '#bdc3e2'  #----> Optional, theme color
   logo_path: /assets/logo.png  #----> Optional, path to logo
