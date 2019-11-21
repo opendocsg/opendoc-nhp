@@ -11,9 +11,9 @@ In the days leading up to your operation, our staff will reach out to you throug
 
 ## Pre-admission assessment:
 Before you go for your Pre-Admission Assessment appointment, please remember to bring the following: 
-- [ ] SingPass ID and password;
+- [ ] SingPass ID and password
 
-- [ ] Employee medical benefits e.g. Hospital Identification Card or company Letter of Guarantee
+- [ ] Employee medical benefits e.g. Hospital Identification Card or company Letter of Guarantee if relevant
 
 - [ ] All medications that you are currently taking for discussion with our anaesthetist
 
